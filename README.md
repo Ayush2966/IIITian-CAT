@@ -13,6 +13,5 @@ Happy Birthday to You
 6 6 5 1 3 1\
 
 
-[Browse more songs](https://github.com/Externalizable/bongo.cat/discussions/categories/song-submissions) or [submit your own](https://github.com/Externalizable/bongo.cat/discussions/new)!
 
 
