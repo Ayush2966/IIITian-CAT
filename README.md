@@ -12,13 +12,5 @@ Happy Birthday to You
 1 1 0 6 5 3\
 6 6 5 1 3 1
 
-Happy Birthday to You
-> 1 1 3 1 6 5\
-1 1 3 1 8 6
-
-Ode to Joy - Ludwig van Beethoven
-> 5 5 6 8 8 6 5 3 1 1 3 5 5 3 3\
-5 5 6 8 8 6 5 3 1 1 3 5 3 1 1\
-3 3 5 1 3 5 6 5 1 3 5 6 5 3 1 3 1
-
-
+Shape of You
+> W T W W T W W T W R W Q
