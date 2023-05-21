@@ -4,10 +4,6 @@
     <img src="https://bongo.cat/meta/thumbnail.png">
   </a>  
 </p>
-Hit the bongos like Bongo Cat! https://bongo.cat
-
-## About the meme
-Bongo Cat is a meme created by [DitzyFlama](https://twitter.com/DitzyFlama) ([tweet](https://twitter.com/DitzyFlama/status/993487015499853824)) using [StrayRogue](https://twitter.com/StrayRogue)'s [drawing of a cat](https://twitter.com/StrayRogue/status/992994454058381312).
 
 ## Song Examples
 Happy Birthday to You
